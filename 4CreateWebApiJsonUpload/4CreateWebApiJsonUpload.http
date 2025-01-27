@@ -1,0 +1,6 @@
+@_4CreateWebApiJsonUpload_HostAddress = http://localhost:5252
+
+GET {{_4CreateWebApiJsonUpload_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
