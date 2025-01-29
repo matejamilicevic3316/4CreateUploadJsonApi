@@ -6,12 +6,15 @@ namespace CarStoreDatabaseAccess
 {
     public class MedicineContext : DbContext
     {
+        public MedicineContext(DbContextOptions options) : base(options)
+        {
+        }
 
         public DbSet<Trial> Trials { get; set; }
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=(LocalDb)\MSSQLLocalDb;Initial Catalog=CarStoreDb;Integrated Security=True");
+            base.OnConfiguring(optionsBuilder);
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

@@ -1,0 +1,12 @@
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\bin\Debug\net8.0\Common.deps.json
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\bin\Debug\net8.0\Common.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\bin\Debug\net8.0\Common.pdb
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\obj\Debug\net8.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\obj\Debug\net8.0\Common.AssemblyInfoInputs.cache
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\obj\Debug\net8.0\Common.AssemblyInfo.cs
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\obj\Debug\net8.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\obj\Debug\net8.0\Common.sourcelink.json
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\obj\Debug\net8.0\Common.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\obj\Debug\net8.0\refint\Common.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\obj\Debug\net8.0\Common.pdb
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Common\obj\Debug\net8.0\ref\Common.dll
