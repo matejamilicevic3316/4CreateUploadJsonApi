@@ -1,7 +1,5 @@
 ﻿using Appplication.Exceptions;
 using FluentValidation;
-using Newtonsoft.Json;
-using System.Globalization;
 using System.Net;
 
 namespace _4CreateWebApiJsonUpload.Middleware
@@ -23,22 +21,34 @@ namespace _4CreateWebApiJsonUpload.Middleware
             }
             catch (Exception ex)
             {
-                switch (ex)
-                {
-                    case UnsucesfullDeserializationException:
-                        context.Response.StatusCode = (int)HttpStatusCode.BadRequest;
-                        break;
-                    case NotFoundException:
-                        context.Response.StatusCode = (int)HttpStatusCode.NotFound;
-                        break;
-                    case ValidationException:
-                        context.Response.StatusCode = (int)(HttpStatusCode.UnprocessableEntity);
-                        break;
-                }
-
-                await context.Response.WriteAsJsonAsync(ex.ToString());
-                context.Response.ContentType = "application/json";
+                await HandleExceptionAsync(context, ex);
             }
+        }
+
+        public static Task HandleExceptionAsync(HttpContext context, Exception exception)
+        {
+            context.Response.ContentType = "application/json";
+
+            switch (exception)
+            {
+                case UnsucesfullDeserializationException:
+                    context.Response.StatusCode = (int)HttpStatusCode.BadRequest;
+                    break;
+                case NotFoundException:
+                    context.Response.StatusCode = (int)HttpStatusCode.NotFound;
+                    break;
+                case ValidationException:
+                    context.Response.StatusCode = (int)(HttpStatusCode.UnprocessableEntity);
+                    break;
+            }
+
+            var response = new
+            {
+                StatusCode = context.Response.StatusCode,
+                Message = exception.Message,
+            };
+
+            return context.Response.WriteAsJsonAsync(response);
         }
     }
 }

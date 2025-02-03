@@ -3,40 +3,131 @@
   "WorkspaceRootPath": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\commands\\import\\get\\igettrialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\commands\\import\\get\\igettrialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\ibasecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\ibasecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\controllers\\trialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\controllers\\trialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\implementation\\profiles\\trialprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|solutionrelative:implementation\\profiles\\trialprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\testproject\\tests\\import\\jsonvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|solutionrelative:testproject\\tests\\import\\jsonvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\dtos\\import\\get\\trialreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\dtos\\import\\get\\trialreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\testproject\\embedded\\test\\valid-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|solutionrelative:testproject\\embedded\\test\\valid-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\implementation\\commands\\importcommands\\jsonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|solutionrelative:implementation\\commands\\importcommands\\jsonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\testproject\\embedded\\test\\invalid-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|solutionrelative:testproject\\embedded\\test\\invalid-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\testproject\\embedded\\test\\trial-json-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|solutionrelative:testproject\\embedded\\test\\trial-json-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\embedded\\trial-json-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\embedded\\trial-json-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\implementation\\commands\\importcommands\\importjsoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|solutionrelative:implementation\\commands\\importcommands\\importjsoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\testproject\\tests\\import\\importtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|solutionrelative:testproject\\tests\\import\\importtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\controllers\\testmiddlewarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\controllers\\testmiddlewarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\requests\\basesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\requests\\basesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\testproject\\tests\\middleware\\endpointmiddlewaretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|solutionrelative:testproject\\tests\\middleware\\endpointmiddlewaretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\tests\\endpointmiddlewaretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\tests\\endpointmiddlewaretests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\middleware\\globalmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\middleware\\globalmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\4createwebapijsonupload.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\4createwebapijsonupload.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\compose.yaml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\implementation\\profiles\\trialprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|solutionrelative:implementation\\profiles\\trialprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A001DE-C1E3-4DA4-9B60-E8ECD029CC0C}|DatabaseAccess\\DatabaseAccess.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\databaseaccess\\migrations\\20250130122803_empty migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A001DE-C1E3-4DA4-9B60-E8ECD029CC0C}|DatabaseAccess\\DatabaseAccess.csproj|solutionrelative:databaseaccess\\migrations\\20250130122803_empty migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\implementation\\commands\\getcommands\\gettrialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|solutionrelative:implementation\\commands\\getcommands\\gettrialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\requests\\import\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\requests\\import\\searchrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\commands\\import\\get\\igettrialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\commands\\import\\get\\igettrialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\requests\\basesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\requests\\basesearch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A001DE-C1E3-4DA4-9B60-E8ECD029CC0C}|DatabaseAccess\\DatabaseAccess.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\databaseaccess\\medicinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A001DE-C1E3-4DA4-9B60-E8ECD029CC0C}|DatabaseAccess\\DatabaseAccess.csproj|solutionrelative:databaseaccess\\medicinecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C224119-239B-45B5-B962-C36E899B827B}|Domain\\Domain.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\domain\\trial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C224119-239B-45B5-B962-C36E899B827B}|Domain\\Domain.csproj|solutionrelative:domain\\trial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\dtos\\import\\get\\trialreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\dtos\\import\\get\\trialreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\commands\\import\\iimportjsoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\commands\\import\\iimportjsoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\implementation\\commands\\getcommands\\gettrialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|solutionrelative:implementation\\commands\\getcommands\\gettrialcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\dtos\\pagedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,22 +142,6 @@
       "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\commands\\import\\ijsonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\ibasecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\ibasecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\implementation\\commands\\importcommands\\jsonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|solutionrelative:implementation\\commands\\importcommands\\jsonvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\testproject\\tests\\import\\jsonvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|solutionrelative:testproject\\tests\\import\\jsonvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\testproject\\tests\\import\\importtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3BB6780-F092-4FB8-8DB6-95E9BF736494}|TestProject\\TestProject.csproj|solutionrelative:testproject\\tests\\import\\importtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\implementation\\commands\\importcommands\\readjsonfilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|solutionrelative:implementation\\commands\\importcommands\\readjsonfilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -75,35 +150,20 @@
       "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\requests\\import\\formfilerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\embedded\\trial-json-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\embedded\\trial-json-schema.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\dtos\\import\\post\\trialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\dtos\\import\\post\\trialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\middleware\\globalmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\middleware\\globalmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\exceptions\\unsucesfulldeserializationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\exceptions\\unsucesfulldeserializationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\commands\\import\\ireadjsonfilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\commands\\import\\ireadjsonfilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\implementation\\validators\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|solutionrelative:implementation\\validators\\filevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\4createwebapijsonupload\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1F37848C-0DE5-401B-90D0-17C8DD475650}|4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.csproj|solutionrelative:4createwebapijsonupload\\startupextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\appplication\\commands\\import\\ireadjsonfilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8B50299-22F9-4CC1-83E9-19ACBAF48046}|Appplication\\Appplication.csproj|solutionrelative:appplication\\commands\\import\\ireadjsonfilecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6FBD8661-995F-4CD6-8B08-2311519239B8}|Implementation\\Implementation.csproj|c:\\users\\mateja\\source\\repos\\4createwebapijsonupload\\implementation\\validators\\importcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -121,7 +181,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -129,55 +189,254 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TrialReadDto.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\DTOs\\Import\\Get\\TrialReadDto.cs",
-              "RelativeDocumentMoniker": "Appplication\\DTOs\\Import\\Get\\TrialReadDto.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\DTOs\\Import\\Get\\TrialReadDto.cs",
-              "RelativeToolTip": "Appplication\\DTOs\\Import\\Get\\TrialReadDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "JSonValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Tests\\Import\\JSonValidatorTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\Tests\\Import\\JSonValidatorTests.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Tests\\Import\\JSonValidatorTests.cs",
+              "RelativeToolTip": "TestProject\\Tests\\Import\\JSonValidatorTests.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T16:15:36.435Z"
+              "WhenOpened": "2025-01-29T13:30:32.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TrialProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Profiles\\TrialProfile.cs",
-              "RelativeDocumentMoniker": "Implementation\\Profiles\\TrialProfile.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Profiles\\TrialProfile.cs",
-              "RelativeToolTip": "Implementation\\Profiles\\TrialProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
+              "Title": "IBaseCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\IBaseCommand.cs",
+              "RelativeDocumentMoniker": "Appplication\\IBaseCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\IBaseCommand.cs",
+              "RelativeToolTip": "Appplication\\IBaseCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T16:14:34.033Z"
+              "WhenOpened": "2025-01-29T13:52:38.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "trial-json-schema.json",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Embedded\\test\\trial-json-schema.json",
+              "RelativeDocumentMoniker": "TestProject\\Embedded\\test\\trial-json-schema.json",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Embedded\\test\\trial-json-schema.json",
+              "RelativeToolTip": "TestProject\\Embedded\\test\\trial-json-schema.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T21:09:36.56Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "GetTrialCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\GetCommands\\GetTrialCommand.cs",
-              "RelativeDocumentMoniker": "Implementation\\Commands\\GetCommands\\GetTrialCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\GetCommands\\GetTrialCommand.cs",
-              "RelativeToolTip": "Implementation\\Commands\\GetCommands\\GetTrialCommand.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T14:09:25.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SearchRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Requests\\Import\\SearchRequest.cs",
-              "RelativeDocumentMoniker": "Appplication\\Requests\\Import\\SearchRequest.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Requests\\Import\\SearchRequest.cs",
-              "RelativeToolTip": "Appplication\\Requests\\Import\\SearchRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T13:41:46.848Z"
+              "Title": "trial-json-schema.json",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Embedded\\trial-json-schema.json",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\Embedded\\trial-json-schema.json",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Embedded\\trial-json-schema.json",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\Embedded\\trial-json-schema.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAIwB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-29T13:27:00.507Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "valid-schema.json",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Embedded\\test\\valid-schema.json",
+              "RelativeDocumentMoniker": "TestProject\\Embedded\\test\\valid-schema.json",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Embedded\\test\\valid-schema.json",
+              "RelativeToolTip": "TestProject\\Embedded\\test\\valid-schema.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T21:09:29.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TrialsController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Controllers\\TrialsController.cs",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\Controllers\\TrialsController.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Controllers\\TrialsController.cs",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\Controllers\\TrialsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:26:40.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IGetTrialCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Commands\\Import\\Get\\IGetTrialCommand.cs",
+              "RelativeDocumentMoniker": "Appplication\\Commands\\Import\\Get\\IGetTrialCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Commands\\Import\\Get\\IGetTrialCommand.cs",
+              "RelativeToolTip": "Appplication\\Commands\\Import\\Get\\IGetTrialCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:24:42.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JsonValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\ImportCommands\\JsonValidator.cs",
+              "RelativeDocumentMoniker": "Implementation\\Commands\\ImportCommands\\JsonValidator.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\ImportCommands\\JsonValidator.cs",
+              "RelativeToolTip": "Implementation\\Commands\\ImportCommands\\JsonValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T12:59:36.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ImportTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Tests\\Import\\ImportTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\Tests\\Import\\ImportTests.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Tests\\Import\\ImportTests.cs",
+              "RelativeToolTip": "TestProject\\Tests\\Import\\ImportTests.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAhwHEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T12:10:10.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "invalid-schema.json",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Embedded\\test\\invalid-schema.json",
+              "RelativeDocumentMoniker": "TestProject\\Embedded\\test\\invalid-schema.json",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Embedded\\test\\invalid-schema.json",
+              "RelativeToolTip": "TestProject\\Embedded\\test\\invalid-schema.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T21:09:26.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TestMiddlewareController.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Controllers\\TestMiddlewareController.cs",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\Controllers\\TestMiddlewareController.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Controllers\\TestMiddlewareController.cs",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\Controllers\\TestMiddlewareController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:01:09.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GlobalMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Middleware\\GlobalMiddleware.cs",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\Middleware\\GlobalMiddleware.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Middleware\\GlobalMiddleware.cs",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\Middleware\\GlobalMiddleware.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:46:11.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Program.cs",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\Program.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Program.cs",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAqwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:29:30.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImportJsonCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\ImportCommands\\ImportJsonCommand.cs",
+              "RelativeDocumentMoniker": "Implementation\\Commands\\ImportCommands\\ImportJsonCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\ImportCommands\\ImportJsonCommand.cs",
+              "RelativeToolTip": "Implementation\\Commands\\ImportCommands\\ImportJsonCommand.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T18:46:42.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EndpointMiddlewareTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Tests\\EndpointMiddlewareTests.cs",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\Tests\\EndpointMiddlewareTests.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Tests\\EndpointMiddlewareTests.cs",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\Tests\\EndpointMiddlewareTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T19:16:46.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EndpointMiddlewareTests.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Tests\\Middleware\\EndpointMiddlewareTests.cs",
+              "RelativeDocumentMoniker": "TestProject\\Tests\\Middleware\\EndpointMiddlewareTests.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Tests\\Middleware\\EndpointMiddlewareTests.cs",
+              "RelativeToolTip": "TestProject\\Tests\\Middleware\\EndpointMiddlewareTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:46:51.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\appsettings.json",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\appsettings.json",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\appsettings.json",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T01:38:15.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StartupExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\StartupExtensions.cs",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\StartupExtensions.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\StartupExtensions.cs",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\StartupExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T20:06:41.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "4CreateWebApiJsonUpload.http",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.http",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.http",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.http",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-03T20:06:43.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "BaseSearch.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Requests\\BaseSearch.cs",
               "RelativeDocumentMoniker": "Appplication\\Requests\\BaseSearch.cs",
@@ -189,20 +448,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TrialsController.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Controllers\\TrialsController.cs",
-              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\Controllers\\TrialsController.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Controllers\\TrialsController.cs",
-              "RelativeToolTip": "4CreateWebApiJsonUpload\\Controllers\\TrialsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "TrialProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Profiles\\TrialProfile.cs",
+              "RelativeDocumentMoniker": "Implementation\\Profiles\\TrialProfile.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Profiles\\TrialProfile.cs",
+              "RelativeToolTip": "Implementation\\Profiles\\TrialProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T13:39:55.604Z",
+              "WhenOpened": "2025-01-29T16:14:34.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "compose.yaml",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\compose.yaml",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\compose.yaml",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\compose.yaml",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\compose.yaml",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-02T12:33:31.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GetTrialCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\GetCommands\\GetTrialCommand.cs",
+              "RelativeDocumentMoniker": "Implementation\\Commands\\GetCommands\\GetTrialCommand.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\GetCommands\\GetTrialCommand.cs",
+              "RelativeToolTip": "Implementation\\Commands\\GetCommands\\GetTrialCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAMBdwBsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T14:09:25.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\appsettings.Development.json",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T22:13:30.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 26,
+              "Title": "SearchRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Requests\\Import\\SearchRequest.cs",
+              "RelativeDocumentMoniker": "Appplication\\Requests\\Import\\SearchRequest.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Requests\\Import\\SearchRequest.cs",
+              "RelativeToolTip": "Appplication\\Requests\\Import\\SearchRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T13:41:46.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Properties\\launchSettings.json",
+              "RelativeToolTip": "4CreateWebApiJsonUpload\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-02T01:15:19.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250130122803_Empty migration.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\DatabaseAccess\\Migrations\\20250130122803_Empty migration.cs",
+              "RelativeDocumentMoniker": "DatabaseAccess\\Migrations\\20250130122803_Empty migration.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\DatabaseAccess\\Migrations\\20250130122803_Empty migration.cs",
+              "RelativeToolTip": "DatabaseAccess\\Migrations\\20250130122803_Empty migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:28:03.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MedicineContext.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\DatabaseAccess\\MedicineContext.cs",
+              "RelativeDocumentMoniker": "DatabaseAccess\\MedicineContext.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\DatabaseAccess\\MedicineContext.cs",
+              "RelativeToolTip": "DatabaseAccess\\MedicineContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T00:02:40.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Trial.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Domain\\Trial.cs",
+              "RelativeDocumentMoniker": "Domain\\Trial.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Domain\\Trial.cs",
+              "RelativeToolTip": "Domain\\Trial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T12:13:51.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TrialReadDto.cs",
+              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\DTOs\\Import\\Get\\TrialReadDto.cs",
+              "RelativeDocumentMoniker": "Appplication\\DTOs\\Import\\Get\\TrialReadDto.cs",
+              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\DTOs\\Import\\Get\\TrialReadDto.cs",
+              "RelativeToolTip": "Appplication\\DTOs\\Import\\Get\\TrialReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T16:15:36.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
               "Title": "IImportJsonCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Commands\\Import\\IImportJsonCommand.cs",
               "RelativeDocumentMoniker": "Appplication\\Commands\\Import\\IImportJsonCommand.cs",
@@ -214,31 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Program.cs",
-              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\Program.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Program.cs",
-              "RelativeToolTip": "4CreateWebApiJsonUpload\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAArwBQAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T12:35:28.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IGetTrialCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Commands\\Import\\Get\\IGetTrialCommand.cs",
-              "RelativeDocumentMoniker": "Appplication\\Commands\\Import\\Get\\IGetTrialCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Commands\\Import\\Get\\IGetTrialCommand.cs",
-              "RelativeToolTip": "Appplication\\Commands\\Import\\Get\\IGetTrialCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T14:24:42.231Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 32,
               "Title": "PagedResponse.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\DTOs\\PagedResponse.cs",
               "RelativeDocumentMoniker": "Appplication\\DTOs\\PagedResponse.cs",
@@ -250,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 33,
               "Title": "BaseCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\BaseCommand.cs",
               "RelativeDocumentMoniker": "Implementation\\Commands\\BaseCommand.cs",
@@ -262,31 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IBaseCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\IBaseCommand.cs",
-              "RelativeDocumentMoniker": "Appplication\\IBaseCommand.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\IBaseCommand.cs",
-              "RelativeToolTip": "Appplication\\IBaseCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T13:52:38.474Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "JSonValidatorTests.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Tests\\Import\\JSonValidatorTests.cs",
-              "RelativeDocumentMoniker": "TestProject\\Tests\\Import\\JSonValidatorTests.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Tests\\Import\\JSonValidatorTests.cs",
-              "RelativeToolTip": "TestProject\\Tests\\Import\\JSonValidatorTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T13:30:32.424Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 34,
               "Title": "IJSonValidator.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Commands\\Import\\IJSonValidator.cs",
               "RelativeDocumentMoniker": "Appplication\\Commands\\Import\\IJSonValidator.cs",
@@ -298,7 +617,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 35,
               "Title": "ReadJsonFileCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\ImportCommands\\ReadJsonFileCommand.cs",
               "RelativeDocumentMoniker": "Implementation\\Commands\\ImportCommands\\ReadJsonFileCommand.cs",
@@ -310,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 36,
               "Title": "FormFileRequest.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Requests\\Import\\FormFileRequest.cs",
               "RelativeDocumentMoniker": "Appplication\\Requests\\Import\\FormFileRequest.cs",
@@ -322,31 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "JsonValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\ImportCommands\\JsonValidator.cs",
-              "RelativeDocumentMoniker": "Implementation\\Commands\\ImportCommands\\JsonValidator.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Commands\\ImportCommands\\JsonValidator.cs",
-              "RelativeToolTip": "Implementation\\Commands\\ImportCommands\\JsonValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T12:59:36.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ImportTests.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Tests\\Import\\ImportTests.cs",
-              "RelativeDocumentMoniker": "TestProject\\Tests\\Import\\ImportTests.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\Tests\\Import\\ImportTests.cs",
-              "RelativeToolTip": "TestProject\\Tests\\Import\\ImportTests.cs",
-              "ViewState": "AgIAAFEAAAAAAAAAAAAgwFsAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-28T12:10:10.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 37,
               "Title": "TrialDto.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\DTOs\\Import\\Post\\TrialDto.cs",
               "RelativeDocumentMoniker": "Appplication\\DTOs\\Import\\Post\\TrialDto.cs",
@@ -358,19 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "trial-json-schema.json",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Embedded\\trial-json-schema.json",
-              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\Embedded\\trial-json-schema.json",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Embedded\\trial-json-schema.json",
-              "RelativeToolTip": "4CreateWebApiJsonUpload\\Embedded\\trial-json-schema.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwB8AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-29T13:27:00.507Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 38,
               "Title": "UnsucesfullDeserializationException.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Exceptions\\UnsucesfullDeserializationException.cs",
               "RelativeDocumentMoniker": "Appplication\\Exceptions\\UnsucesfullDeserializationException.cs",
@@ -382,19 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "GlobalMiddleware.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Middleware\\GlobalMiddleware.cs",
-              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\Middleware\\GlobalMiddleware.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\Middleware\\GlobalMiddleware.cs",
-              "RelativeToolTip": "4CreateWebApiJsonUpload\\Middleware\\GlobalMiddleware.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAEwCEAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T21:55:29.477Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -406,7 +677,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 39,
               "Title": "FileValidator.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Validators\\FileValidator.cs",
               "RelativeDocumentMoniker": "Implementation\\Validators\\FileValidator.cs",
@@ -418,7 +689,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 40,
               "Title": "IReadJsonFileCommand.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Appplication\\Commands\\Import\\IReadJsonFileCommand.cs",
               "RelativeDocumentMoniker": "Appplication\\Commands\\Import\\IReadJsonFileCommand.cs",
@@ -430,19 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "StartupExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\StartupExtensions.cs",
-              "RelativeDocumentMoniker": "4CreateWebApiJsonUpload\\StartupExtensions.cs",
-              "ToolTip": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\4CreateWebApiJsonUpload\\StartupExtensions.cs",
-              "RelativeToolTip": "4CreateWebApiJsonUpload\\StartupExtensions.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T21:12:38.827Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 41,
               "Title": "ImportCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\Implementation\\Validators\\ImportCommandValidator.cs",
               "RelativeDocumentMoniker": "Implementation\\Validators\\ImportCommandValidator.cs",
@@ -454,7 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 42,
               "Title": "20250127203933_InitialMigration.cs",
               "DocumentMoniker": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\DatabaseAccess\\Migrations\\20250127203933_InitialMigration.cs",
               "RelativeDocumentMoniker": "DatabaseAccess\\Migrations\\20250127203933_InitialMigration.cs",

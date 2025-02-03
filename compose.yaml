@@ -7,13 +7,45 @@
 # You can add other services your application may depend on here, such as a
 # database or a cache. For examples, see the Awesome Compose repository:
 # https://github.com/docker/awesome-compose
+networks:
+  4createApp:
+
 services:
+  appdb:
+    container_name: appdb
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    environment:
+    - ACCEPT_EULA=Y
+    - MSSQL_SA_PASSWORD=password123sdJwnwlk!
+    # - MSSQL_COLLATION=SQL_Latin1_General_CP1_CI_AS
+    - MSSQL_PID=Developer
+    - MSSQL_TCP_PORT=1433
+    ports:
+    - 1433:1433
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P ${Sa_Password:-password123sdJwnwlk!} -Q 'SELECT 1' || exit 1"]
+      interval: 10s
+      retries: 10
+      start_period: 10s
+      timeout: 3s
+    networks:
+    - 4createApp
   server:
+    container_name: api
     build:
       context: .
       target: final
     ports:
       - 8080:8080
+    expose:
+      - 5432
+    networks:
+      - 4createApp
+    environment:
+      - APP_HOST=DOCKER
+      - DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=FALSE
+      # - DockerConnectionString=Data Source=appdb;Initial Catalog=4CreateDatabase;User ID=sa;Password=password123sdJwnwlk!;Encrypt=False;MultipleActiveResultSets=True;MultiSubnetFailover=True;
+      # - LocalConnectionString=Data Source=appdb;Initial Catalog=4CreateDatabase;User ID=sa;Password=password123sdJwnwlk!;Encrypt=False;MultipleActiveResultSets=True;MultiSubnetFailover=True;
 
 # The commented out section below is an example of how to define a PostgreSQL
 # database that your application can use. `depends_on` tells Docker Compose to

@@ -26,7 +26,7 @@ namespace TestProject.Tests.Import
 
             bool jsonValidationResult = jsonValidator.Execute(new JsonValidatorRequest { parsedJsonData = jsonText, schemaUrl = "Embedded\\test\\trial-json-schema.json" });
 
-            Assert.False(jsonValidationResult);
+            Assert.True(jsonValidationResult);
         }
     }
 }

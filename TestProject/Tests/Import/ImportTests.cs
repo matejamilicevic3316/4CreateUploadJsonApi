@@ -95,7 +95,7 @@ namespace TestProject.Tests.Import
             });
 
             Assert.Equal("Title1", result.Title);
-            Assert.Equal(Status.Completed, result.Status);
+            Assert.Equal(Status.Completed.ToString(), result.Status);
 
             SetDefaultContext();
         }
@@ -121,7 +121,7 @@ namespace TestProject.Tests.Import
             });
 
             Assert.Equal("Title10", result.Title);
-            Assert.Equal(Status.Completed, result.Status);
+            Assert.Equal(Status.Completed.ToString(), result.Status);
             Assert.Equal("Id11", result.Id);
             Assert.Equal(5, result.Participants);
 

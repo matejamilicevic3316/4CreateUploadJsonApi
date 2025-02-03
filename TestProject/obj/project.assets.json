@@ -1001,6 +1001,101 @@
           "buildTransitive/net8.0/_._": {}
         }
       },
+      "Microsoft.ICU.ICU4C.Runtime/72.1.0.3": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.ICU.ICU4C.Runtime.linux-arm64": "72.1.0.3",
+          "Microsoft.ICU.ICU4C.Runtime.linux-x64": "72.1.0.3",
+          "Microsoft.ICU.ICU4C.Runtime.win-arm64": "72.1.0.3",
+          "Microsoft.ICU.ICU4C.Runtime.win-x64": "72.1.0.3",
+          "Microsoft.ICU.ICU4C.Runtime.win-x86": "72.1.0.3"
+        }
+      },
+      "Microsoft.ICU.ICU4C.Runtime.linux-arm64/72.1.0.3": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/linux-arm64/native/libicudata.so.72.1.0.3": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libicui18n.so.72.1.0.3": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          },
+          "runtimes/linux-arm64/native/libicuuc.so.72.1.0.3": {
+            "assetType": "native",
+            "rid": "linux-arm64"
+          }
+        }
+      },
+      "Microsoft.ICU.ICU4C.Runtime.linux-x64/72.1.0.3": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/libicudata.so.72.1.0.3": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libicui18n.so.72.1.0.3": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/linux-x64/native/libicuuc.so.72.1.0.3": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          }
+        }
+      },
+      "Microsoft.ICU.ICU4C.Runtime.win-arm64/72.1.0.3": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/win-arm64/native/icudt72.dll": {
+            "assetType": "native",
+            "rid": "win-arm64"
+          },
+          "runtimes/win-arm64/native/icuin72.dll": {
+            "assetType": "native",
+            "rid": "win-arm64"
+          },
+          "runtimes/win-arm64/native/icuuc72.dll": {
+            "assetType": "native",
+            "rid": "win-arm64"
+          }
+        }
+      },
+      "Microsoft.ICU.ICU4C.Runtime.win-x64/72.1.0.3": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/win-x64/native/icudt72.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/icuin72.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x64/native/icuuc72.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          }
+        }
+      },
+      "Microsoft.ICU.ICU4C.Runtime.win-x86/72.1.0.3": {
+        "type": "package",
+        "runtimeTargets": {
+          "runtimes/win-x86/native/icudt72.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          },
+          "runtimes/win-x86/native/icuin72.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          },
+          "runtimes/win-x86/native/icuuc72.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      },
       "Microsoft.Identity.Client/4.61.3": {
         "type": "package",
         "dependencies": {
@@ -2179,6 +2274,7 @@
           "Microsoft.Data.Sqlite.Core": "9.0.1",
           "Microsoft.EntityFrameworkCore": "9.0.1",
           "Microsoft.EntityFrameworkCore.InMemory": "9.0.1",
+          "Microsoft.ICU.ICU4C.Runtime": "72.1.0.3",
           "Microsoft.NET.Test.Sdk": "17.12.0",
           "Moq": "4.20.72",
           "Swashbuckle.AspNetCore": "6.6.2",
@@ -3946,6 +4042,99 @@
         "microsoft.extensions.primitives.9.0.1.nupkg.sha512",
         "microsoft.extensions.primitives.nuspec",
         "useSharedDesignerContext.txt"
+      ]
+    },
+    "Microsoft.ICU.ICU4C.Runtime/72.1.0.3": {
+      "sha512": "Z42uzvs0TN9Y02xgHtRgPcumLRnvK3MHVHZ0Pr3OrnvyZYhBwqDgdYBOvoELcTsayUgwqrPLb+C5Fqqk66zlUg==",
+      "type": "package",
+      "path": "microsoft.icu.icu4c.runtime/72.1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "microsoft.icu.icu4c.runtime.72.1.0.3.nupkg.sha512",
+        "microsoft.icu.icu4c.runtime.nuspec",
+        "version.txt"
+      ]
+    },
+    "Microsoft.ICU.ICU4C.Runtime.linux-arm64/72.1.0.3": {
+      "sha512": "u/2cPX6JBgSgTOeDjkb2A672LsL3zQo60ViYUTqHOrxuFOIx0ag6bFu2WgN4zRZ71K6L0fubnrlS1HpN+k5kyA==",
+      "type": "package",
+      "path": "microsoft.icu.icu4c.runtime.linux-arm64/72.1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "microsoft.icu.icu4c.runtime.linux-arm64.72.1.0.3.nupkg.sha512",
+        "microsoft.icu.icu4c.runtime.linux-arm64.nuspec",
+        "runtimes/linux-arm64/native/libicudata.so.72.1.0.3",
+        "runtimes/linux-arm64/native/libicui18n.so.72.1.0.3",
+        "runtimes/linux-arm64/native/libicuuc.so.72.1.0.3",
+        "version.txt"
+      ]
+    },
+    "Microsoft.ICU.ICU4C.Runtime.linux-x64/72.1.0.3": {
+      "sha512": "q1iHc4EGCBYbpb+gfMZGn6L/WuBei/la52pRbxlVy4ed7FdB9UmvUXhoRzv6OsYa6E4VlTlj6EKgYvrwPkVGKQ==",
+      "type": "package",
+      "path": "microsoft.icu.icu4c.runtime.linux-x64/72.1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "microsoft.icu.icu4c.runtime.linux-x64.72.1.0.3.nupkg.sha512",
+        "microsoft.icu.icu4c.runtime.linux-x64.nuspec",
+        "runtimes/linux-x64/native/libicudata.so.72.1.0.3",
+        "runtimes/linux-x64/native/libicui18n.so.72.1.0.3",
+        "runtimes/linux-x64/native/libicuuc.so.72.1.0.3",
+        "version.txt"
+      ]
+    },
+    "Microsoft.ICU.ICU4C.Runtime.win-arm64/72.1.0.3": {
+      "sha512": "/h8OPK1fqrI9t8hKNmpnSy7MYssGB1CtoXANsduFqf0Sc+OOtfoCIvRp2Mt9Fk80CmtU/53TldGvt1oCH7KpEA==",
+      "type": "package",
+      "path": "microsoft.icu.icu4c.runtime.win-arm64/72.1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "microsoft.icu.icu4c.runtime.win-arm64.72.1.0.3.nupkg.sha512",
+        "microsoft.icu.icu4c.runtime.win-arm64.nuspec",
+        "runtimes/win-arm64/native/icudt72.dll",
+        "runtimes/win-arm64/native/icuin72.dll",
+        "runtimes/win-arm64/native/icuuc72.dll",
+        "version.txt"
+      ]
+    },
+    "Microsoft.ICU.ICU4C.Runtime.win-x64/72.1.0.3": {
+      "sha512": "7j6NsmvKuVxgoFsoy0Ty7I09V/tvrQBZN+ddfHtz/OWNRaEIy7PsAguGoyD4AcQZh/KkfT9RQlHoQJ4xVQPr6g==",
+      "type": "package",
+      "path": "microsoft.icu.icu4c.runtime.win-x64/72.1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "microsoft.icu.icu4c.runtime.win-x64.72.1.0.3.nupkg.sha512",
+        "microsoft.icu.icu4c.runtime.win-x64.nuspec",
+        "runtimes/win-x64/native/icudt72.dll",
+        "runtimes/win-x64/native/icuin72.dll",
+        "runtimes/win-x64/native/icuuc72.dll",
+        "version.txt"
+      ]
+    },
+    "Microsoft.ICU.ICU4C.Runtime.win-x86/72.1.0.3": {
+      "sha512": "xTHoHJKtgHDsYkQ/RU3o4U36ktjQqnR+ML00HDDK2SWr+9nMekxnXvtLZ2I4cqF8s51frxqTRgx1jDVtIzCf3w==",
+      "type": "package",
+      "path": "microsoft.icu.icu4c.runtime.win-x86/72.1.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "microsoft.icu.icu4c.runtime.win-x86.72.1.0.3.nupkg.sha512",
+        "microsoft.icu.icu4c.runtime.win-x86.nuspec",
+        "runtimes/win-x86/native/icudt72.dll",
+        "runtimes/win-x86/native/icuin72.dll",
+        "runtimes/win-x86/native/icuuc72.dll",
+        "version.txt"
       ]
     },
     "Microsoft.Identity.Client/4.61.3": {

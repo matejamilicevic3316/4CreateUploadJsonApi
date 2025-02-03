@@ -3,7 +3,7 @@ using BusinessLogic.Validators;
 using FluentValidation;
 using Implementation.Profiles;
 
-namespace CarStore.Api
+namespace _4CreateWebApiJsonUpload
 {
     public static class StartupExtensions
     {

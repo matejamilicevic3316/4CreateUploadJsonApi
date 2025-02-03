@@ -1,0 +1,3 @@
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Domain\bin\Release\net8.0\publish\Domain.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Domain\bin\Release\net8.0\publish\Domain.deps.json
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Domain\bin\Release\net8.0\publish\Domain.pdb

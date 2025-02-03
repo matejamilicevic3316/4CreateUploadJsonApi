@@ -1,8 +1,8 @@
 {
-    "Id": "Id27251",
-    "Title": "title1",
-    "StartDate": "2024-12-12",
-    "EndDate": "2024-01-01",
-    "Participants": 4,
-    "Status": "Not Started"
+    "trialId": "id27251",
+    "title": "title1",
+    "startDate": "2024-12-12",
+    "endDate": "2024-01-01",
+    "participants": 4,
+    "status": "Not Started"
 }

@@ -1,0 +1,16 @@
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\Appplication.deps.json
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\Appplication.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\Appplication.pdb
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\Domain.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\Domain.pdb
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\obj\Release\net8.0\Appplication.csproj.AssemblyReference.cache
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\obj\Release\net8.0\Appplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\obj\Release\net8.0\Appplication.AssemblyInfoInputs.cache
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\obj\Release\net8.0\Appplication.AssemblyInfo.cs
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\obj\Release\net8.0\Appplication.csproj.CoreCompileInputs.cache
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\obj\Release\net8.0\Appplication.sourcelink.json
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\obj\Release\net8.0\Appplica.4000D35C.Up2Date
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\obj\Release\net8.0\Appplication.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\obj\Release\net8.0\refint\Appplication.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\obj\Release\net8.0\Appplication.pdb
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\obj\Release\net8.0\ref\Appplication.dll

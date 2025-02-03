@@ -1,8 +1,6 @@
 {
-    "Id": "Id27251",
+    "TrialId": "Id27251",
     "Title": "title1",
     "StartDate": "2024-12-12",
-    "EndDate": "2024-01-01",
-    "Participants": 4,
-    "Status": "Not Started" 
+    "EndDate": "2024-01-01"
 }

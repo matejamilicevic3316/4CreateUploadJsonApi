@@ -1,0 +1,8 @@
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\publish\Appplication.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\publish\Appplication.deps.json
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\publish\Appplication.pdb
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\publish\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\publish\System.IO.Pipelines.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\publish\Domain.dll
+C:\Users\Mateja\source\repos\4CreateWebApiJsonUpload\Appplication\bin\Release\net8.0\publish\Domain.pdb
