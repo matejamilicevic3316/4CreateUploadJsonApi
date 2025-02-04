@@ -1,8 +1,8 @@
-﻿using CarStoreDatabaseAccess.Configurations;
+﻿using _4CreateWebApiJsonUpload.Configurations;
 using Domain;
 using Microsoft.EntityFrameworkCore;
 
-namespace CarStoreDatabaseAccess
+namespace _4CreateWebApiJsonUpload
 {
     public class MedicineContext : DbContext
     {

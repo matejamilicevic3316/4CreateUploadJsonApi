@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace CarStoreDatabaseAccess.Configurations
+namespace _4CreateWebApiJsonUpload.Configurations
 {
     public class TrialConfiguration : IEntityTypeConfiguration<Trial>
     {
