@@ -16,7 +16,7 @@ namespace Implementation.Commands.GetCommands
         }
         public override TrialReadDto Execute(string req)
         {
-            var trial = _medicineContext.Trials.FirstOrDefault(x => x.Id == req);
+            var trial = _medicineContext.Trials.FirstOrDefault(x => x.TrialId == req);
             
             if (trial == null)
             {

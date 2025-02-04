@@ -14,9 +14,9 @@ namespace TestProject.Tests.Import
             var jsonText = File.ReadAllText("Embedded\\test\\invalid-schema.json");
             IJSonValidator jsonValidator = new JsonValidator();
 
-            bool jsonValidationResult = jsonValidator.Execute(new JsonValidatorRequest { parsedJsonData = jsonText, schemaUrl = "Embedded\\test\\trial-json-schema.json" });
+            var jsonValidationErrors = jsonValidator.Execute(new JsonValidatorRequest { parsedJsonData = jsonText, schemaUrl = "Embedded\\test\\trial-json-schema.json" });
             
-            Assert.False(jsonValidationResult);
+            Assert.True(jsonValidationErrors?.Any());
         }
         [Fact]
         public void Valid_Schema()
@@ -24,9 +24,9 @@ namespace TestProject.Tests.Import
             var jsonText = File.ReadAllText("Embedded\\test\\valid-schema.json");
             IJSonValidator jsonValidator = new JsonValidator();
 
-            bool jsonValidationResult = jsonValidator.Execute(new JsonValidatorRequest { parsedJsonData = jsonText, schemaUrl = "Embedded\\test\\trial-json-schema.json" });
+            var jsonValidationErrors = jsonValidator.Execute(new JsonValidatorRequest { parsedJsonData = jsonText, schemaUrl = "Embedded\\test\\trial-json-schema.json" });
 
-            Assert.True(jsonValidationResult);
+            Assert.Null(jsonValidationErrors);
         }
     }
 }

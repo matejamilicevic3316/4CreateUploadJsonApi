@@ -27,11 +27,12 @@ namespace Implementation.Commands.ImportCommands
                 }
                 var jsonText = new StreamReader(memoryStream).ReadToEnd();
 
-                var jsonValid = _validator.Execute(new JsonValidatorRequest { parsedJsonData = jsonText, schemaUrl = "Embedded\\trial-json-schema.json" });
+                var jsonErrrList = new List<string>();
+                var jsonErrors = _validator.Execute(new JsonValidatorRequest { parsedJsonData = jsonText, schemaUrl = "Embedded/trial-json-schema.json" });
 
-                if (!jsonValid)
+                if (jsonErrors?.Any() ?? false)
                 {
-                    throw new FluentValidation.ValidationException(jsonText);
+                    throw new FluentValidation.ValidationException(jsonErrors.Select(x => new FluentValidation.Results.ValidationFailure { ErrorMessage = x, PropertyName = "JsonField"}));
                 }
 
                 trialDto = JsonSerializer.Deserialize<TrialDto>(jsonText)!;

@@ -1,15 +1,12 @@
 ﻿using Appplication.Commands.Import;
 using Appplication.DTOs.Import.Get;
 using Appplication.DTOs.Import.Post;
-using Appplication.Exceptions;
 using Appplication.Import.Requests;
 using AutoMapper;
 using CarStoreDatabaseAccess;
 using Domain;
 using FluentValidation;
-using Implementation.Validators;
 using Microsoft.AspNetCore.Http;
-using System.Text.Json;
 using ValidationException = FluentValidation.ValidationException;
 
 namespace Implementation.Commands.ImportCommands
@@ -45,7 +42,7 @@ namespace Implementation.Commands.ImportCommands
                 throw new ValidationException(validationResult.Errors);
             }
 
-            var trial = _medicineContext.Trials.FirstOrDefault(x => x.Id == trialDto.Id);
+            var trial = _medicineContext.Trials.FirstOrDefault(x => x.TrialId == trialDto.TrialId);
 
             if (trial != null)
             {

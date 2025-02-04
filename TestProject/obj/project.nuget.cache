@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "tBBsIfD4LMA=",
+  "dgSpecHash": "uXxM1q08SQc=",
   "success": true,
   "projectFilePath": "C:\\Users\\Mateja\\source\\repos\\4CreateWebApiJsonUpload\\TestProject\\TestProject.csproj",
   "expectedPackageFiles": [
@@ -55,12 +55,6 @@
     "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.extensions.options\\9.0.1\\microsoft.extensions.options.9.0.1.nupkg.sha512",
     "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\8.0.0\\microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
     "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
-    "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.icu.icu4c.runtime\\72.1.0.3\\microsoft.icu.icu4c.runtime.72.1.0.3.nupkg.sha512",
-    "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.icu.icu4c.runtime.linux-arm64\\72.1.0.3\\microsoft.icu.icu4c.runtime.linux-arm64.72.1.0.3.nupkg.sha512",
-    "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.icu.icu4c.runtime.linux-x64\\72.1.0.3\\microsoft.icu.icu4c.runtime.linux-x64.72.1.0.3.nupkg.sha512",
-    "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.icu.icu4c.runtime.win-arm64\\72.1.0.3\\microsoft.icu.icu4c.runtime.win-arm64.72.1.0.3.nupkg.sha512",
-    "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.icu.icu4c.runtime.win-x64\\72.1.0.3\\microsoft.icu.icu4c.runtime.win-x64.72.1.0.3.nupkg.sha512",
-    "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.icu.icu4c.runtime.win-x86\\72.1.0.3\\microsoft.icu.icu4c.runtime.win-x86.72.1.0.3.nupkg.sha512",
     "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.identity.client\\4.61.3\\microsoft.identity.client.4.61.3.nupkg.sha512",
     "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.identity.client.extensions.msal\\4.61.3\\microsoft.identity.client.extensions.msal.4.61.3.nupkg.sha512",
     "C:\\Users\\Mateja\\.nuget\\packages\\microsoft.identitymodel.abstractions\\6.35.0\\microsoft.identitymodel.abstractions.6.35.0.nupkg.sha512",

@@ -22,7 +22,7 @@ namespace Implementation.Commands.GetCommands
             if (req.Keyword != null)
             {
                 trials = _medicineContext.Trials.Where(x =>
-                    x.Id.Contains(req.Keyword) ||
+                    x.TrialId.Contains(req.Keyword) ||
                     x.Title.Contains(req.Keyword)).ToList();
             }
             else

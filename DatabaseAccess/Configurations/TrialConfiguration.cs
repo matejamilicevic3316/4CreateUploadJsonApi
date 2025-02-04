@@ -8,8 +8,8 @@ namespace CarStoreDatabaseAccess.Configurations
     {
         public void Configure(EntityTypeBuilder<Trial> builder)
         {
-            builder.HasKey(t => t.Id);
-            builder.Property(x => x.Id).IsRequired();
+            builder.HasKey(t => t.TrialId);
+            builder.Property(x => x.TrialId).IsRequired();
             builder.Property(x => x.Title).IsRequired();
             builder.Property(x => x.StartDate).IsRequired();
             builder.Property(x => x.Status).IsRequired();

@@ -2,7 +2,7 @@
 {
     public class Trial
     {
-        public required string Id { get; set; }
+        public required string TrialId { get; set; }
         public required string Title { get; set; }
         public required DateTime StartDate { get; set; }
         public required DateTime EndDate { get; set; }

@@ -7,7 +7,7 @@ namespace Implementation.Commands.ImportCommands
 {
     public class JsonValidator : IJSonValidator
     {
-        public bool Execute(JsonValidatorRequest req)
+        public IEnumerable<string>? Execute(JsonValidatorRequest req)
         {
             string schemaData = File.ReadAllText(req.schemaUrl);
 
@@ -16,11 +16,11 @@ namespace Implementation.Commands.ImportCommands
 
             if (json.IsValid(schema, out IList<string> errors))
             {
-                return true;
+                return errors.ToList();
             }
             else
             {
-                return false;
+                return null;
             }
         }
     }

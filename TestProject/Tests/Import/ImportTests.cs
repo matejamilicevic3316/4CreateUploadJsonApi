@@ -47,7 +47,7 @@ namespace TestProject.Tests.Import
             {
                 context.Trials.Add(new Trial
                 {
-                    Id = "Id" + (i + 1),
+                    TrialId = "Id" + (i + 1),
                     StartDate = DateTime.Now.AddMonths(i),
                     EndDate = DateTime.Now.AddMonths(1 + i),
                     Title = "Title" + (i + 1),
@@ -73,9 +73,9 @@ namespace TestProject.Tests.Import
         {
             _trialValidator.Setup(x => x.Validate(It.IsAny<TrialDto>())).Returns(new ValidationResult());
             _fileValidator.Setup(x => x.Validate(It.IsAny<IFormFile>())).Returns(new ValidationResult());
-            _readJsonCommand.Setup(x => x.Execute(It.IsAny<IFormFile>())).Returns(new TrialDto { Id = "Id2", Status = Status.Completed.ToString(), Title = "Title1", StartDate = DateTime.Now, EndDate = DateTime.Now.AddMonths(1), Participants = 5 });
+            _readJsonCommand.Setup(x => x.Execute(It.IsAny<IFormFile>())).Returns(new TrialDto { TrialId = "Id2", Status = Status.Completed.ToString(), Title = "Title1", StartDate = DateTime.Now, EndDate = DateTime.Now.AddMonths(1), Participants = 5 });
 
-            var databaseExistingRecord = Context.Trials.FirstOrDefault(x => x.Id == "Id2");
+            var databaseExistingRecord = Context.Trials.FirstOrDefault(x => x.TrialId == "Id2");
 
             if (databaseExistingRecord == null)
             {
@@ -105,9 +105,9 @@ namespace TestProject.Tests.Import
         {
             _trialValidator.Setup(x => x.Validate(It.IsAny<TrialDto>())).Returns(new ValidationResult());
             _fileValidator.Setup(x => x.Validate(It.IsAny<IFormFile>())).Returns(new ValidationResult());
-            _readJsonCommand.Setup(x => x.Execute(It.IsAny<IFormFile>())).Returns(new TrialDto { Id = "Id11", Status = Status.Completed.ToString(), Title = "Title10", StartDate = DateTime.Now, EndDate = DateTime.Now.AddMonths(1), Participants = 5 });
+            _readJsonCommand.Setup(x => x.Execute(It.IsAny<IFormFile>())).Returns(new TrialDto { TrialId = "Id11", Status = Status.Completed.ToString(), Title = "Title10", StartDate = DateTime.Now, EndDate = DateTime.Now.AddMonths(1), Participants = 5 });
 
-            var databaseExistingRecord = Context.Trials.FirstOrDefault(x => x.Id == "Id11");
+            var databaseExistingRecord = Context.Trials.FirstOrDefault(x => x.TrialId == "Id11");
 
             Assert.Null(databaseExistingRecord);
 
@@ -122,7 +122,7 @@ namespace TestProject.Tests.Import
 
             Assert.Equal("Title10", result.Title);
             Assert.Equal(Status.Completed.ToString(), result.Status);
-            Assert.Equal("Id11", result.Id);
+            Assert.Equal("Id11", result.TrialId);
             Assert.Equal(5, result.Participants);
 
             SetDefaultContext();
@@ -135,7 +135,7 @@ namespace TestProject.Tests.Import
             _fileValidator.Setup(x => x.Validate(It.IsAny<IFormFile>())).Returns(new ValidationResult());
             _readJsonCommand.Setup(x => x.Execute(It.IsAny<IFormFile>())).Throws(new UnsucesfullDeserializationException());
 
-            var databaseExistingRecord = Context.Trials.FirstOrDefault(x => x.Id == "Id11");
+            var databaseExistingRecord = Context.Trials.FirstOrDefault(x => x.TrialId == "Id11");
 
             Assert.Null(databaseExistingRecord);
 
@@ -163,9 +163,9 @@ namespace TestProject.Tests.Import
         {
             _trialValidator.Setup(x => x.Validate(It.IsAny<TrialDto>())).Returns(new ValidationResult());
             _fileValidator.Setup(x => x.Validate(It.IsAny<IFormFile>())).Throws(new ValidationException(""));
-            _readJsonCommand.Setup(x => x.Execute(It.IsAny<IFormFile>())).Returns(new TrialDto { Id = "Id11", Status = Status.Completed.ToString(), Title = "Title10", StartDate = DateTime.Now, EndDate = DateTime.Now.AddMonths(1), Participants = 5 });
+            _readJsonCommand.Setup(x => x.Execute(It.IsAny<IFormFile>())).Returns(new TrialDto { TrialId = "Id11", Status = Status.Completed.ToString(), Title = "Title10", StartDate = DateTime.Now, EndDate = DateTime.Now.AddMonths(1), Participants = 5 });
 
-            var databaseExistingRecord = Context.Trials.FirstOrDefault(x => x.Id == "Id11");
+            var databaseExistingRecord = Context.Trials.FirstOrDefault(x => x.TrialId == "Id11");
 
             Assert.Null(databaseExistingRecord);
 
@@ -193,9 +193,9 @@ namespace TestProject.Tests.Import
         {
             _trialValidator.Setup(x => x.Validate(It.IsAny<TrialDto>())).Throws(new ValidationException(""));
             _fileValidator.Setup(x => x.Validate(It.IsAny<IFormFile>())).Returns(new ValidationResult());
-            _readJsonCommand.Setup(x => x.Execute(It.IsAny<IFormFile>())).Returns(new TrialDto { Id = "Id11", Status = Status.Completed.ToString(), Title = "Title10", StartDate = DateTime.Now, EndDate = DateTime.Now.AddMonths(1), Participants = 5 });
+            _readJsonCommand.Setup(x => x.Execute(It.IsAny<IFormFile>())).Returns(new TrialDto { TrialId = "Id11", Status = Status.Completed.ToString(), Title = "Title10", StartDate = DateTime.Now, EndDate = DateTime.Now.AddMonths(1), Participants = 5 });
 
-            var databaseExistingRecord = Context.Trials.FirstOrDefault(x => x.Id == "Id11");
+            var databaseExistingRecord = Context.Trials.FirstOrDefault(x => x.TrialId == "Id11");
 
             Assert.Null(databaseExistingRecord);
 

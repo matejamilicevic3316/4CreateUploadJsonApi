@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Appplication.Commands.Import
 {
-    public interface IJSonValidator : IBaseCommand<JsonValidatorRequest, bool>
+    public interface IJSonValidator
     {
+        IEnumerable<string>? Execute(JsonValidatorRequest req);
     }
 }

@@ -43,6 +43,7 @@
           "Domain": "1.0.0",
           "FluentValidation": "11.11.0",
           "Implementation": "1.0.0",
+          "Microsoft.AspNetCore.Mvc.Testing": "8.0.12",
           "Microsoft.EntityFrameworkCore.InMemory": "9.0.1",
           "Microsoft.NET.Test.Sdk": "17.12.0",
           "Moq": "4.20.72",
@@ -1025,110 +1026,6 @@
           "lib/net8.0/Microsoft.Extensions.Primitives.dll": {}
         }
       },
-      "Microsoft.ICU.ICU4C.Runtime/72.1.0.3": {
-        "dependencies": {
-          "Microsoft.ICU.ICU4C.Runtime.linux-arm64": "72.1.0.3",
-          "Microsoft.ICU.ICU4C.Runtime.linux-x64": "72.1.0.3",
-          "Microsoft.ICU.ICU4C.Runtime.win-arm64": "72.1.0.3",
-          "Microsoft.ICU.ICU4C.Runtime.win-x64": "72.1.0.3",
-          "Microsoft.ICU.ICU4C.Runtime.win-x86": "72.1.0.3"
-        }
-      },
-      "Microsoft.ICU.ICU4C.Runtime.linux-arm64/72.1.0.3": {
-        "runtimeTargets": {
-          "runtimes/linux-arm64/native/libicudata.so.72.1.0.3": {
-            "rid": "linux-arm64",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          },
-          "runtimes/linux-arm64/native/libicui18n.so.72.1.0.3": {
-            "rid": "linux-arm64",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          },
-          "runtimes/linux-arm64/native/libicuuc.so.72.1.0.3": {
-            "rid": "linux-arm64",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
-      "Microsoft.ICU.ICU4C.Runtime.linux-x64/72.1.0.3": {
-        "runtimeTargets": {
-          "runtimes/linux-x64/native/libicudata.so.72.1.0.3": {
-            "rid": "linux-x64",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          },
-          "runtimes/linux-x64/native/libicui18n.so.72.1.0.3": {
-            "rid": "linux-x64",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          },
-          "runtimes/linux-x64/native/libicuuc.so.72.1.0.3": {
-            "rid": "linux-x64",
-            "assetType": "native",
-            "fileVersion": "0.0.0.0"
-          }
-        }
-      },
-      "Microsoft.ICU.ICU4C.Runtime.win-arm64/72.1.0.3": {
-        "runtimeTargets": {
-          "runtimes/win-arm64/native/icudt72.dll": {
-            "rid": "win-arm64",
-            "assetType": "native",
-            "fileVersion": "72.1.0.3"
-          },
-          "runtimes/win-arm64/native/icuin72.dll": {
-            "rid": "win-arm64",
-            "assetType": "native",
-            "fileVersion": "72.1.0.3"
-          },
-          "runtimes/win-arm64/native/icuuc72.dll": {
-            "rid": "win-arm64",
-            "assetType": "native",
-            "fileVersion": "72.1.0.3"
-          }
-        }
-      },
-      "Microsoft.ICU.ICU4C.Runtime.win-x64/72.1.0.3": {
-        "runtimeTargets": {
-          "runtimes/win-x64/native/icudt72.dll": {
-            "rid": "win-x64",
-            "assetType": "native",
-            "fileVersion": "72.1.0.3"
-          },
-          "runtimes/win-x64/native/icuin72.dll": {
-            "rid": "win-x64",
-            "assetType": "native",
-            "fileVersion": "72.1.0.3"
-          },
-          "runtimes/win-x64/native/icuuc72.dll": {
-            "rid": "win-x64",
-            "assetType": "native",
-            "fileVersion": "72.1.0.3"
-          }
-        }
-      },
-      "Microsoft.ICU.ICU4C.Runtime.win-x86/72.1.0.3": {
-        "runtimeTargets": {
-          "runtimes/win-x86/native/icudt72.dll": {
-            "rid": "win-x86",
-            "assetType": "native",
-            "fileVersion": "72.1.0.3"
-          },
-          "runtimes/win-x86/native/icuin72.dll": {
-            "rid": "win-x86",
-            "assetType": "native",
-            "fileVersion": "72.1.0.3"
-          },
-          "runtimes/win-x86/native/icuuc72.dll": {
-            "rid": "win-x86",
-            "assetType": "native",
-            "fileVersion": "72.1.0.3"
-          }
-        }
-      },
       "Microsoft.Identity.Client/4.61.3": {
         "dependencies": {
           "Microsoft.IdentityModel.Abstractions": "6.35.0",
@@ -1986,17 +1883,11 @@
           "DatabaseAccess": "1.0.0",
           "Domain": "1.0.0",
           "Implementation": "1.0.0",
-          "Microsoft.AspNetCore.Mvc.Testing": "8.0.12",
           "Microsoft.Data.Sqlite.Core": "9.0.1",
           "Microsoft.EntityFrameworkCore": "9.0.1",
           "Microsoft.EntityFrameworkCore.InMemory": "9.0.1",
-          "Microsoft.ICU.ICU4C.Runtime": "72.1.0.3",
           "Microsoft.NET.Test.Sdk": "17.12.0",
-          "Moq": "4.20.72",
-          "Swashbuckle.AspNetCore": "6.6.2",
-          "xunit": "2.9.3",
-          "xunit.assert": "2.9.3",
-          "xunit.extensibility.core": "2.9.3"
+          "Swashbuckle.AspNetCore": "6.6.2"
         },
         "runtime": {
           "4CreateWebApiJsonUpload.dll": {
@@ -4161,48 +4052,6 @@
       "sha512": "sha512-bHtTesA4lrSGD1ZUaMIx6frU3wyy0vYtTa/hM6gGQu5QNrydObv8T5COiGUWsisflAfmsaFOe9Xvw5NSO99z0g==",
       "path": "microsoft.extensions.primitives/9.0.1",
       "hashPath": "microsoft.extensions.primitives.9.0.1.nupkg.sha512"
-    },
-    "Microsoft.ICU.ICU4C.Runtime/72.1.0.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-Z42uzvs0TN9Y02xgHtRgPcumLRnvK3MHVHZ0Pr3OrnvyZYhBwqDgdYBOvoELcTsayUgwqrPLb+C5Fqqk66zlUg==",
-      "path": "microsoft.icu.icu4c.runtime/72.1.0.3",
-      "hashPath": "microsoft.icu.icu4c.runtime.72.1.0.3.nupkg.sha512"
-    },
-    "Microsoft.ICU.ICU4C.Runtime.linux-arm64/72.1.0.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-u/2cPX6JBgSgTOeDjkb2A672LsL3zQo60ViYUTqHOrxuFOIx0ag6bFu2WgN4zRZ71K6L0fubnrlS1HpN+k5kyA==",
-      "path": "microsoft.icu.icu4c.runtime.linux-arm64/72.1.0.3",
-      "hashPath": "microsoft.icu.icu4c.runtime.linux-arm64.72.1.0.3.nupkg.sha512"
-    },
-    "Microsoft.ICU.ICU4C.Runtime.linux-x64/72.1.0.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-q1iHc4EGCBYbpb+gfMZGn6L/WuBei/la52pRbxlVy4ed7FdB9UmvUXhoRzv6OsYa6E4VlTlj6EKgYvrwPkVGKQ==",
-      "path": "microsoft.icu.icu4c.runtime.linux-x64/72.1.0.3",
-      "hashPath": "microsoft.icu.icu4c.runtime.linux-x64.72.1.0.3.nupkg.sha512"
-    },
-    "Microsoft.ICU.ICU4C.Runtime.win-arm64/72.1.0.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-/h8OPK1fqrI9t8hKNmpnSy7MYssGB1CtoXANsduFqf0Sc+OOtfoCIvRp2Mt9Fk80CmtU/53TldGvt1oCH7KpEA==",
-      "path": "microsoft.icu.icu4c.runtime.win-arm64/72.1.0.3",
-      "hashPath": "microsoft.icu.icu4c.runtime.win-arm64.72.1.0.3.nupkg.sha512"
-    },
-    "Microsoft.ICU.ICU4C.Runtime.win-x64/72.1.0.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-7j6NsmvKuVxgoFsoy0Ty7I09V/tvrQBZN+ddfHtz/OWNRaEIy7PsAguGoyD4AcQZh/KkfT9RQlHoQJ4xVQPr6g==",
-      "path": "microsoft.icu.icu4c.runtime.win-x64/72.1.0.3",
-      "hashPath": "microsoft.icu.icu4c.runtime.win-x64.72.1.0.3.nupkg.sha512"
-    },
-    "Microsoft.ICU.ICU4C.Runtime.win-x86/72.1.0.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-xTHoHJKtgHDsYkQ/RU3o4U36ktjQqnR+ML00HDDK2SWr+9nMekxnXvtLZ2I4cqF8s51frxqTRgx1jDVtIzCf3w==",
-      "path": "microsoft.icu.icu4c.runtime.win-x86/72.1.0.3",
-      "hashPath": "microsoft.icu.icu4c.runtime.win-x86.72.1.0.3.nupkg.sha512"
     },
     "Microsoft.Identity.Client/4.61.3": {
       "type": "package",

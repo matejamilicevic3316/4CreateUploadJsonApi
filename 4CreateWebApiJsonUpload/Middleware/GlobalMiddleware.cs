@@ -40,6 +40,9 @@ namespace _4CreateWebApiJsonUpload.Middleware
                 case ValidationException:
                     context.Response.StatusCode = (int)(HttpStatusCode.UnprocessableEntity);
                     break;
+                default:
+                    context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+                    break;
             }
 
             var response = new
